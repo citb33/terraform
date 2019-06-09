@@ -5,5 +5,5 @@ module "eks" {
   cluster_name          = "test-eks-cluster"
   subnets               = ["subnet-abcde012", "subnet-bcde012a"]
   tags                  = "${map("Environment", "test")}"
-  vpc_id                = "vpc-abcde012"
+  vpc_id                = "vpc-4271752b"
 }
