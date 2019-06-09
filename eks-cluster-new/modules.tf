@@ -1,6 +1,6 @@
 module "blueharvest-eks" {
   source              = "armandorvila/blueharvest-eks/aws"
-  availability_zones  = ["eu-west-1a", "eu-west-1b", "eu-west-1c"]
+  availability_zones  = ["us-east-2a", "us-east-2b", "us-east-2c"]
   eks_ami_id          = "ami-01e08d22b9439c15a" //amazon-eks-node-1.11-v20190109
   instance_type       = "t2.large"
   asg_min_size        = "5"
