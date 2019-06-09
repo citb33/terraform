@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Sun Jun 09 2019 19:52:28 GMT+0530 (IST)
+------------------------------------------------------
+
+Modified files:
+* eks-cluster-new/modules.tf
+
+
+Created files:
+* .autogit/logs/log-9-5-2019-19-52-18.txt
+
+
+Deleted files:
+
+
+Renamed files:
