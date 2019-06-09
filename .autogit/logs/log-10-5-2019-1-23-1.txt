@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Mon Jun 10 2019 01:23:01 GMT+0530 (IST)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-10-5-2019-1-13-29.txt
+* .autogit/logs/log-10-5-2019-1-23-0.txt
+
+
+Deleted files:
+
+
+Renamed files:
